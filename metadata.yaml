@@ -1,5 +1,5 @@
 _repo: History-of-the-Origin-of-Representative-Government-in-Europe_61250
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Scoble, Andrew R. (Andrew Richard), Sir
@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '51327'
     url: http://www.gutenberg.org/2009/agents/51327
     wikipedia: https://en.wikipedia.org/wiki/Andrew_Scoble
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Guizot, François
@@ -27,6 +30,8 @@ creator:
     - https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Guizot
     - https://en.wikipedia.org/wiki/François_Guizot
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61250#History-of-the-Origin-of-Representative-Government-in-Europe
 gutenberg_issued: '2020-01-27'
 gutenberg_type: Text
 identifiers:
